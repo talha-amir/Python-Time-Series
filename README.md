@@ -11,4 +11,4 @@
 - [Stock Price Analysis](https://colab.research.google.com/drive/1YE7j9_7I1bw9Q-PlpsJs7wcArZ9Nt-S9?usp=sharing)
 
 
-This Project Contains Time Series Analysis Using [Auto-ARIMA](https://towardsdatascience.com/time-series-forecasting-using-auto-arima-in-python-bb83e49210cd) , [FBPROPHET](https://pypi.org/project/fbprophet/) and [STATSMODELS](https://pypi.org/project/statsmodels/).
+This Project Contains Time Series Analysis & Prediction Using [Auto-ARIMA](https://towardsdatascience.com/time-series-forecasting-using-auto-arima-in-python-bb83e49210cd) , [FBPROPHET](https://pypi.org/project/fbprophet/) and [STATSMODELS](https://pypi.org/project/statsmodels/).
